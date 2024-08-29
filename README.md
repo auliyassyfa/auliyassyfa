@@ -1,4 +1,4 @@
-👋 Hi, I’m auliyassyfa, a student who is working his way to an informatics degree. Currently have high motivation to continue developing skills in the field of technology.
+👋 Hi, I’m auliyassyfa, a student who is working his way to an informatics degree. Currently have a high motivation to develop skills in the field of technology.
 
 - 📚 I’m an active student in the 5th semester majoring in Informatics at Gunadarma University 
 - 👀 I’m interested in front-end developer, ui/ux, editing, and design
